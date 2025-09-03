@@ -1,0 +1,7 @@
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\obj\Debug\Practica_Celcius_Farenheit.csproj.AssemblyReference.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\obj\Debug\Practica_Celcius_Farenheit.csproj.CoreCompileInputs.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\bin\Debug\Practica_Celcius_Farenheit.exe.config
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\bin\Debug\Practica_Celcius_Farenheit.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\bin\Debug\Practica_Celcius_Farenheit.pdb
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\obj\Debug\Practica_Celcius_Farenheit.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Practica_Celcius_Farenheit\obj\Debug\Practica_Celcius_Farenheit.pdb
