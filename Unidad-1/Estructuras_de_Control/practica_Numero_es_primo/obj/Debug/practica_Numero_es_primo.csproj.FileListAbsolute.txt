@@ -1,0 +1,7 @@
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\bin\Debug\practica_Numero_es_primo.exe.config
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\bin\Debug\practica_Numero_es_primo.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\bin\Debug\practica_Numero_es_primo.pdb
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\obj\Debug\practica_Numero_es_primo.csproj.AssemblyReference.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\obj\Debug\practica_Numero_es_primo.csproj.CoreCompileInputs.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\obj\Debug\practica_Numero_es_primo.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\practica_Numero_es_primo\obj\Debug\practica_Numero_es_primo.pdb
