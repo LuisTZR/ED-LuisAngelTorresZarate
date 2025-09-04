@@ -1,0 +1,7 @@
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\bin\Debug\Adivina_el_Numero.exe.config
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\bin\Debug\Adivina_el_Numero.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\bin\Debug\Adivina_el_Numero.pdb
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\obj\Debug\Adivina_el_Numero.csproj.AssemblyReference.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\obj\Debug\Adivina_el_Numero.csproj.CoreCompileInputs.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\obj\Debug\Adivina_el_Numero.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Adivina_el_Numero\obj\Debug\Adivina_el_Numero.pdb
