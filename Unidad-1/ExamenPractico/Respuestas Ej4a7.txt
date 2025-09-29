@@ -1,0 +1,11 @@
+Respuestas examen:
+
+Ej. 4: Algoritmo de busqueda binaria, porque seria el mas rapido y eficiente para encontrarlo n una lista ya ordenada.
+
+Ej 5: 
+Un algoritmo (O(n^2)) compara cada elemento con todos los demas, por ejemplo, si son 10,000 datos, se hacen 10,000^2 = 100,000,000 de comparaciones,
+mientras que un algoritmo O(n) marca los ya vistos y se reducen considerablemente la cantidad de comparaciones que hace.
+
+Ej 6: Shaker Sort, seria as veloz para ordenar una lista de numeros casi ordenada.
+
+Ej 7:
