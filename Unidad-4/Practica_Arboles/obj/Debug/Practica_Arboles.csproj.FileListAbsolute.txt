@@ -1,0 +1,7 @@
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\bin\Debug\Practica_Arboles.exe.config
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\bin\Debug\Practica_Arboles.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\bin\Debug\Practica_Arboles.pdb
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\obj\Debug\Practica_Arboles.csproj.AssemblyReference.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\obj\Debug\Practica_Arboles.csproj.CoreCompileInputs.cache
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\obj\Debug\Practica_Arboles.exe
+C:\Users\52867\OneDrive\Desktop\Semestre 5\Estructura de datos\Unidad 4\Practica_Arboles\obj\Debug\Practica_Arboles.pdb
